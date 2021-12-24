@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development.
 - 🌱 I’m currently learning data structures and algorithms.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me: email id - sonalpriyassm@gmail.com
+- 📫 How to reach me: email id - sonalpriya.vskp@gmail.com
 
 <!---
 sonal-priya/sonal-priya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
