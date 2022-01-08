@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonal-priya
-- 👀 I’m interested in backend development.
+- 👀 Web development enthusiast!
 - 🌱 I’m currently learning data structures and algorithms.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: email id - sonalpriya.vskp@gmail.com
